@@ -81,5 +81,5 @@ Test results will be displayed in the console. To enhance reporting, consider in
 
 If you'd like to improve this project, feel free to fork it, create a feature branch, and submit a pull request.
 
-# Author: Prachi Tomar
-# Repository: https://github.com/PrachiTomar1/WebPageAutomation
+Author: Prachi Tomar
+Repository: https://github.com/PrachiTomar1/WebPageAutomation
